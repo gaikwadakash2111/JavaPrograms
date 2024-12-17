@@ -5,7 +5,7 @@ public class ChildDemo extends ParentDemo{
 	// over-riding method
 	public void marriage()
 	{
-		System.out.println("Deepika padukone");
+		System.out.println("Aaliya bhatt");
 	}
 
 	public static void main(String[] args) {
